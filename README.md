@@ -1,10 +1,10 @@
-# [Industrial Defense Turrets (Continued)]()
+# [Industrial Defense Turrets (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3370836741)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Grandyys mod https://steamcommunity.com/sharedfiles/filedetails/?id=2612922139
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://i.imgur.com/CN9Rs5X.png)
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
@@ -32,4 +32,6 @@ I may add more stuff in the future.
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/IndustrialDefenseTurrets?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/) | tags:  turrets,  explosive
+[![Image](https://img.shields.io/github/v/release/emipa606/IndustrialDefenseTurrets?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/) | tags:  turrets,  explosive 
+
+[![Image](https://img.shields.io/github/v/release/emipa606/IndustrialDefenseTurrets?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3370836741) | tags:  turrets,  explosive

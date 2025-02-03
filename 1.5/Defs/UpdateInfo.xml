@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TabulaRasa.UpdateDef Abstract="true" Name="IndustrialDefenseTurrets_UpdateInfoBase">
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3370836741</linkUrl>
+		<banner>UpdateInfo/IndustrialDefenseTurrets</banner>
+	</TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef ParentName="IndustrialDefenseTurrets_UpdateInfoBase">
+		<defName>IndustrialDefenseTurrets_1_5_0</defName>
+		<date>2025/2/3</date>
+		<content>The original version of this mod has been updated, please use it instead. This version will remain, but unlisted and will not be updated further.</content>
+	</TabulaRasa.UpdateDef>
+</Defs>
+

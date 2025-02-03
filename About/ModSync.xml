@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>90059632-865d-42de-b4af-63e476b54aa7</ID>
   <ModName>Industrial Defense Turrets (Continued)</ModName>
-  <Version>1.5.0</Version>
+  <Version>1.5.1</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,7 +12,4 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
 
